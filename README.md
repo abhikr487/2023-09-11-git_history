@@ -5,4 +5,9 @@
 -'pull' <WHERE> <WHAT>' : pulls (updates) the local repo with comments with contents inthe remore (where) using the information in the specified branch (what)
 -'log': shows the log
      -'log'L log --online
-     
+
+  -   'diff' : shows the diff
+  -'restore --staged <FILE>' : unstages <FILE> from staging area
+
+  Here's the chnage I don't really mean to do 
+  -Some more changes
